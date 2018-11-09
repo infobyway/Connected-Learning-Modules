@@ -1,9 +1,9 @@
 ---
 layout: module
-module_name: introduction
-module_full_name: Introduction to Capacity
-title: 1.0 Your Library's Capacity
-section: 0. Introduction 
+module_name: capacity
+module_full_name: Capacity
+title: 1.0 Overview
+section: 1. Introduction 
 subsection: one-zero
 ---
 
