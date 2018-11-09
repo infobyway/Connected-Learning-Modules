@@ -22,8 +22,9 @@ subsection: overview
 	<li>Explain the concept of “capacity” in the following areas: partnerships, technology acquisition, technology use, space, and staffing (<a href="{{site.url}}{{site.baseurl}}/introduction/section-1/">Section 1: Introduction</a>).</li>
 	<li>Map out capacity in various areas, e.g. space, partnerships, technology acquisition, technology use, staffing (<a href="{{site.url}}{{site.baseurl}}/introduction/section-2/">Section 2: Before You Start</a>).</li>
 	<li>Self-assess your library or department’s capacity in each area (<a href="{{site.url}}{{site.baseurl}}/introduction/section-3/">Section 3: Self-Assessing Capacity</a>).</li>
-	<li>Develop a roadmap for addressing capacity challenges in your library (<a href="{{site.url}}{{site.baseurl}}/introduction/section-4/">Section 4: Determining Community Need</a>).</li>
-  <li>Identify strategies for optimizing services given your existing capacity (<a href="{{site.url}}{{site.baseurl}}/introduction/section-4/">Section 5: Developing A Roadmap</a>).</li>
+	<li> NEEDS DESCRIPTION(<a href="{{site.url}}{{site.baseurl}}/introduction/section-4/">Section 4: Determining Community Need</a>).</li>
+  <li>Develop a roadmap for addressing capacity challenges in your library (<a href="{{site.url}}{{site.baseurl}}/introduction/section-4/">Section 5: Developing A Roadmap</a>).</li>
+	<li>Identify strategies for optimizing services given your existing capacity (<a href="{{site.url}}{{site.baseurl}}/introduction/section-4/">Section 6: Moving Forward</a>).</li>
 </ul>
 
 ### How to Use This Module
@@ -49,4 +50,4 @@ Each section is divided into subsections, which are listed in the menu on the le
 <div class="reflection">Reflections and exercises to help you apply the module’s concepts to your individual context look like this.</div> 
 
 At the end of each section, there are additional resources for you to explore further on your own if you choose.
-Ready to get started? Let’s begin with Section 1: Introduction to Connected Learning.
+Ready to get started? Let’s begin with Section 1: Introduction to Capacity.
