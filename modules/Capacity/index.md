@@ -13,17 +13,17 @@ subsection: overview
 
 ## Module Overview
 
-<p class="summary">In this module, <b>Capacity</b>, ---EDIT: you will learn what connected learning is and why it is important, and evaluate your youth programs to see how well they incorporate connected learning principles.</p>
+<p class="summary">In this module, <b>Capacity</b>, you will learn how to self-assess the unique capacity of your library and infuse connected learning into programs for libraries big and small.</p>
 
 
 ### Learning Objectives For This Module
 
 <ul class="fancy">
 	<li>Explain the concept of “capacity” in the following areas: partnerships, technology acquisition, technology use, space, and staffing (<a href="{{site.url}}{{site.baseurl}}/introduction/section-1/">Section 1: Introduction</a>).</li>
-	<li>Map out capacity in various areas, e.g. space, partnerships, technology acquisition, technology use, staffing (<a href="{{site.url}}{{site.baseurl}}/introduction/section-2/">Section 2: Connected Learning Design Principles</a>).</li>
-	<li>Self-assess your library or department’s capacity in each area (<a href="{{site.url}}{{site.baseurl}}/introduction/section-3/">Section 3: Why Your Library Needs Connected Learning</a>).</li>
-	<li>Develop a roadmap for addressing capacity challenges in your library (<a href="{{site.url}}{{site.baseurl}}/introduction/section-4/">Section 4: Getting Started With Connected Learning in Your Library</a>).</li>
-  <li>Identify strategies for optimizing services given your existing capacity (<a href="{{site.url}}{{site.baseurl}}/introduction/section-4/">Section 4: Getting Started With Connected Learning in Your Library</a>).</li>
+	<li>Map out capacity in various areas, e.g. space, partnerships, technology acquisition, technology use, staffing (<a href="{{site.url}}{{site.baseurl}}/introduction/section-2/">Section 2: Before You Start</a>).</li>
+	<li>Self-assess your library or department’s capacity in each area (<a href="{{site.url}}{{site.baseurl}}/introduction/section-3/">Section 3: Self-Assessing Capacity</a>).</li>
+	<li>Develop a roadmap for addressing capacity challenges in your library (<a href="{{site.url}}{{site.baseurl}}/introduction/section-4/">Section 4: Determining Community Need</a>).</li>
+  <li>Identify strategies for optimizing services given your existing capacity (<a href="{{site.url}}{{site.baseurl}}/introduction/section-4/">Section 5: Developing A Roadmap</a>).</li>
 </ul>
 
 ### How to Use This Module
