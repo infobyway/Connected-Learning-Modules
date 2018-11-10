@@ -8,9 +8,8 @@ subsection: two-zero
 ---
 
 
-
+**After completing this section, you will be able to:**
 <ul class="fancy">
-  **After completing this section, you will be able to:**
 	<li>Map out capacity in various areas, e.g. space, partnerships, technology acquisition, technology use, staffing</li>
   <li>Reflect on the unique capacity of your library in these areas</li>
 </ul>
