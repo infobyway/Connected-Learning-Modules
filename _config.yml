@@ -4,8 +4,8 @@
 title: "ConnectedLib"
 description: "Helping librarians use digital media with teens."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
-url: "https://norlab.github.io"
-baseurl: "/connectedlibtest2" #important: start with /
+url: "https://connectedlib.github.io"
+baseurl: "/Connected-Learning-Modules" #important: start with /
 
 # Build settings
 markdown: kramdown
